@@ -1,7 +1,7 @@
 {
-    "name": "@yumenative/baileys",
-    "version": "2.0.3",
-    "description": "WhatsApp API Modification By K",
+    "name": "@badzzne/baileys",
+    "version": "1.0",
+    "description": "WhatsApp API Modification By Badzz",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -10,14 +10,14 @@
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "stvnnvs"
+        "badzzne"
     ],
     "homepage": "https://www.npmjs.com/package/@stvnnvs/baileys",
     "repository": {
         "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "badzzne",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
